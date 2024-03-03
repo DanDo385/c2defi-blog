@@ -17,17 +17,18 @@ function HomePage() {
           </p>
 
           <p>Deploy your own in a few minutes.</p>
+
+          {/* Image added inside the Container */}
+          <div className="mt-10">
+            <Image
+              src="/coins.jpeg"
+              alt="crypto coins"
+              width={1920 / 2}
+              height={1280 / 2}
+            
+          </div>
         </div>
       </Container>
-
-      <div className="container max-w-4xl m-auto px-4 mt-20">
-        <Image
-          src="/desk.jpg"
-          alt="my desk"
-          width={1920 / 2}
-          height={1280 / 2}
-        />
-      </div>
     </>
   );
 }

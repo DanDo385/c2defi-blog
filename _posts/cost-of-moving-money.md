@@ -1,12 +1,12 @@
 ---
-title: "The Passing of the Grey Company"
-excerpt: "Aragorn, Legolas, and Gimli are accompanied by the Grey Company as they pass through the Paths of the Dead between Rohan and Gondor."
+title: "3% to Move Currencies Across Borders?"
+excerpt: "This is where the potential for cryptocurrencies like Bitcoin and Ethereum shines, offering a dramatically more affordable alternative for cross-border transfers."
 date: "2024-02-29"
 ---
 
 "Drawing from my experience as an execution trader at a prominent hedge fund, I observed firsthand the dynamics of forex spreads. For major currency pairs like USD/JPY, spreads were impressively tight, often less than a pip. To put this into perspective, a one-pip spread, say between USD/JPY at 150.00 and 150.01, translates to a mere 0.007% difference. However, as we venture into more exotic territories—like the Russian Ruble (USD/RUB), Polish Złoty (USD/PLN), and Mexican Peso (USD/MXN)—the spreads widen significantly, ranging from 0.5% to 0.9%. This uptick is primarily due to the inherent risks and lower liquidity of these currencies.
 
-Contrast this with the retail investor's plight, who often faces a staggering 3% spread even on transactions involving the world's most traded currencies. This disparity not only underscores the banks' hefty profit margins but also hints at the systemic significance of these financial giants—any failure could potentially send shockwaves through the economy.
+Contrast this with the retail investor's plight, who often faces a staggering 3% spread even on transactions involving the world's most traded currencies. This disparity not only underscores the banks' hefty profit margins but also hints at the systemic significance of these financial giants. Any failure could potentially send shockwaves through the economy.
 
 The impact is even more pronounced for immigrants remitting money back home. A simple $100 transfer can incur a 7% or higher total cost, disproportionately affecting those least able to afford it, especially in connections with emerging markets. This is where the potential for cryptocurrencies like Bitcoin and Ethereum shines, offering a dramatically more affordable alternative for cross-border transfers.
 
