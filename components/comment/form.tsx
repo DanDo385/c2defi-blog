@@ -31,11 +31,12 @@ export default function CommentForm({
       <div className="flex items-center mt-4">
         {isAuthenticated ? (
           <div className="flex items-center space-x-6">
-            <button className="py-2 px-4 rounded bg-blue-600 text-white disabled:opacity-40 hover:bg-blue-700">
+            <button className="py-2 px-4 rounded 
+            -blue-600 text-white disabled:opacity-40 hover:bg-blue-700">
               Send
             </button>
             <button
-              className="text-gray-500"
+              className="text-gray-800"
               onClick={() => logout({ returnTo: window.location.origin })}
             >
               Log Out

@@ -18,14 +18,13 @@ function HomePage() {
 
           <p>Deploy your own in a few minutes.</p>
 
-          {/* Image added inside the Container */}
           <div className="mt-10">
             <Image
               src="/coins.jpeg"
               alt="crypto coins"
               width={1920 / 2}
               height={1280 / 2}
-            
+            /> {/* Make sure this tag is self-closed */}
           </div>
         </div>
       </Container>
