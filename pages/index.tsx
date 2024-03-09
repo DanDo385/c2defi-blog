@@ -12,7 +12,7 @@ function HomePage() {
           <p>
             This website is built with Next.js and TailwindCSS. It also uses a library called next-mdx.
             It allows you to write Markdown and focus on the content of your
-            portfolio. For anyone who is new to blogging
+            portfolio. For anyone who is new to blogging, wants to develop their own site for the blog using next.js and tailwindcss, and does not want to print another WordPress site, this template is a great happy medium.
           </p>
 
           <p>Deploy your own in a few minutes.</p>
