@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 .body-background {
-    background-image: url('/images/br.jpeg'); /* Assuming the public directory is served at the root */
+    background-image: url('/br.jpeg'); /* Assuming the public directory is served at the root */
     background-size: cover; /* Cover the entire page */
     background-position: center; /* Center the background image */
   }

@@ -20,15 +20,15 @@ export default function PostPage({
   return (
     <Container>
       <Head>
-        <title>{post.title} | My awesome blog</title>
+        <title>{post.title} | C2DeFi</title>
       </Head>
 
       {router.isFallback ? (
         <div>Loading…</div>
       ) : (
         <div className ="bg-gray-800">
-          <article className ="bg-gray-800">>
-            <header className ="bg-gray-800">>
+          <article className ="bg-gray-800">
+            <header className ="bg-gray-800">
               <h1 className="text-4xl font-bold">{post.title}</h1>
               {post.excerpt ? (
                 <p className="text-green-500 mt-2 text-xl">{post.excerpt}</p>
